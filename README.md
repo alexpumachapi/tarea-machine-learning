@@ -1,2 +1,2 @@
 # tarea-machine-learning
-khkhkhk
+Este proyecto es desarrollado en el Diplomado de 
